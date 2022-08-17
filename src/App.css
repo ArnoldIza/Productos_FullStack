@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+.formulario{
+  background-color: rgb(243, 241, 241);
+  margin-left: 38%;
+  margin-right: 38%;
+  height: 50px;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+
+}
+
+label{
+  margin-right: 3%;
+  margin-left: -10%;
+  color: rgb(141, 140, 140);
+ 
+}
+
+.boton{
+  width: 10%;
+}
+
+.cuadrot{
+  display: inline-block;
+  margin-left: 13%;
+  height: 20px;
+}
+input{
+height: 20px;
+}
+.Detalle{
+  margin-top: 10%;
+}
+.creation{
+  color: forestgreen;
+}
+
